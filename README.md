@@ -29,10 +29,22 @@ Click below to add these patches as a source in Morphe Manager:
 
 <!-- PATCHES_START EXPANDED -->
 
-| Patch | Description | Options |
-| --- | --- | --- |
-| **Custom app name** | Changes the Google Photos app name in the launcher and system settings. | `appName`: Custom launcher label (default: `"Photos Morphe"`) |
-| **Custom branding** | Adds custom Google Photos launcher branding with embedded adaptive icons (or optional custom folder override). | `customIcon` (optional): Path to alternative custom icon folder |
+> **[v1.0.0](https://github.com/mian196/GPhotos-custom-branding/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
+<details open>
+<summary>📦 Google Photos&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 7.92.0.977185651 | 7.80.0.929302933 |
+| :---: | :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Custom app name](#custom-app-name) | Changes the Google Photos app name in the launcher and system settings. | • App name |
+| [Custom branding](#custom-branding) | Adds custom Google Photos launcher branding with embedded adaptive icons (or optional custom folder). | • Custom icon folder (optional) |
+
+</details>
 
 <!-- PATCHES_END -->
 
