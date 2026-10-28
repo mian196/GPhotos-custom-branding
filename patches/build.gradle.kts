@@ -1,15 +1,14 @@
 group = "app.template"
 
 patches {
-    // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        name = "Google Photos Custom Branding"
+        description = "Custom launcher icon and app name patches for Google Photos"
+        source = "https://github.com/mian196/GPhotos-custom-branding"
+        author = "mian196"
         contact = "na"
-        website = "na"
-        license = "GPLv3"
+        website = "https://github.com/mian196/GPhotos-custom-branding"
+        license = "GNU General Public License v3.0"
     }
 }
 

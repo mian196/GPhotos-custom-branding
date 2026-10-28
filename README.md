@@ -1,4 +1,4 @@
-# 👋🧩 Morphe Patches template
+﻿# 👋🧩 Morphe Patches template
 
 Template repository for Morphe Patches.
 
@@ -86,6 +86,22 @@ To develop and release your Patches using this template:
 
 See the [Morphe documentation](https://github.com/MorpheApp/morphe-documentation) for more information.
 
+
 ## 📜 License
 
-UserXYZ Patches are licensed under the [GNU General Public License v3.0](LICENSE)
+This repository is licensed under the [GNU General Public License v3.0](LICENSE).
+
+## 🤝 Credits & Acknowledgements
+
+- **Custom Branding Logic & Original Implementation**:
+  - Based on the Google Photos custom launcher branding patch originally contributed by [donny110](https://github.com/donny110) to [ushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches) (licensed under GPLv3).
+- **Custom Adaptive Icons & Vector Assets**:
+  - Hand-drawn Morphe pinwheel adaptive icon foregrounds and monochrome themed vector assets fetched from [Akash-Sriram/morphe-google-photos](https://github.com/Akash-Sriram/morphe-google-photos).
+- **Core Framework**:
+  - Built with the [Morphe](https://github.com/MorpheApp) patcher and template ecosystem.
+
+### License & Modification Rights
+All upstream projects operate under the **GNU General Public License v3.0 (GPLv3)**. Under the terms of GPLv3, editing, modifying, and redistributing the code and assets are explicitly permitted, provided that:
+1. The derivative work remains licensed under the GNU General Public License v3.0.
+2. The original copyright and attribution notices are preserved.
+3. Source code is made available when distributed.
